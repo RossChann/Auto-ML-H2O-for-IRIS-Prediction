@@ -1,4 +1,4 @@
-# H2O for IRIS Prediction
+# Auto-ML H2O for IRIS Prediction
 
 This project demonstrates how to use H2O's AutoML to predict the IRIS ratio, specifically focusing on the potential of insolvency. It's designed to run on Google Colab, utilizing its powerful cloud computing capabilities.
 
