@@ -3,12 +3,12 @@
 This project demonstrates how to use H2O's AutoML to predict the IRIS ratio, specifically focusing on the potential of insolvency. It's designed to run on Google Colab, utilizing its powerful cloud computing capabilities.
 
 ## Getting Started
-
-### Google Colab
+### 1.Colab/Jupyter Notebook
+#### Google Colab
 
 Downoad the main.ipynb and move it into your google drive, and place the CSV file that needs to be analyzed into the specified directory, and according to the instructions in the document, you can start the analysis. Users can also adjust their own analysis entries, and specific information can be obtained from the document.
 
-### Jupyter Notebook
+#### Jupyter Notebook
 
 Before installing Jupyter Notebook, ensure you have the following: 
 
@@ -37,6 +37,8 @@ Open your terminal (Command Prompt or PowerShell for Windows, Terminal app for m
    ```
 
    This will start the Jupyter Notebook server and open the application in your default web browser.
+
+### Run by Python directly
 
 ## Prerequisites 
 
